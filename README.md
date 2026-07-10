@@ -1,4 +1,4 @@
-# 🇹🇷 AION 2 MASTER GUIDE (TR)
+# 🇹🇷 TR AION 2 MASTER GUIDE
 
 Türkiye'nin en kapsamlı AION 2 rehberine hoş geldiniz.
 
@@ -6,27 +6,10 @@ Türkiye'nin en kapsamlı AION 2 rehberine hoş geldiniz.
 
 # 📚 Rehberler
 
-## 🚀 Başlangıç
+## 💎 Üyelik Sistemi
 
-- [1-45 Level Progression](01-Baslangic-Rehberi.md)
-
----
-
-## ⚔️ Gelişim
-
-- [45 Level Sonrası](02-45-Level-Rehberi.md)
+- 📖 [Membership Avantajları ve Odyle Energy Mantığı](Membership%20Avantajlari%20ve%20Odyle%20Energy%20Mantigi)
 
 ---
 
-## 📖 Sistemler
-
-- [Daevanion Rehberi](03-Daevanion.md)
-
-- [Fire Temple](04-Fire-Temple.md)
-
-- [Tüy (Monolith) Rehberi](05-Tuy-Rehberi.md)
-
-- [Membership Rehberi](06-Membership.md)
-
-- Ve Daha FAZLASI..
-- 
+> Yeni rehberler düzenli olarak eklenecektir.
